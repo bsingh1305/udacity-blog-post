@@ -1,6 +1,4 @@
-Sure! Here is a `README.md` file that provides a detailed overview of the project, its goals, and instructions on how to set up and run the code.
 
----
 
 # Seattle Airbnb Data Analysis
 
